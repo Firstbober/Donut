@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Donut
 @namespace      https://github.com/Catgrills/Donut
-@version        1.1.0
+@version        1.1.1
 @description    An user style for Nyaa called Donut.
 @author         Catgrills/Katgrills(2018) + Firstbober(2026)
 @preprocessor   uso
@@ -32,6 +32,8 @@
     `
 }
 ==/UserStyle== */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Bebas+Neue&family=Neuton:wght@400;700&display=swap');
 
 @-moz-document domain("nyaa.si") {
 
