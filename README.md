@@ -22,7 +22,7 @@ Instruction
 + for <a href="https://addons.opera.com/en-gb/extensions/details/stylus/?display=en">Opera</a>
 
 <strong>Step 2 : Install the script </strong>
-+ Directly with <b>Stylus</b> : <a href="https://raw.githubusercontent.com/Catgrills/Donut/master/nyaa.user.css">click here</a>
++ Directly with <b>Stylus</b> : <a href="https://raw.githubusercontent.com/Firstbober/Donut/refs/heads/master/nyaa.user.css">click here</a>
 
 <strong>Step 3 : Install the font </strong>
 
