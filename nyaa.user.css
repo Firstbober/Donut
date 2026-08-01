@@ -5,7 +5,7 @@
 @description    An user style for Nyaa called Donut.
 @author         Catgrills/Katgrills
 @preprocessor   uso
-@var select theme 'Theme' {
+@var select theme "Theme" {
     "Light": `
     :root {
         --body-bg: #FFF !important;
@@ -243,7 +243,7 @@
     }
 
     .navbar-form.navbar-right.form .btn-group .caret {
-        background: no-repeat url('https://i.imgur.com/AN6BKJT.png') center !important;
+        background: no-repeat url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 16 16%22><path fill=%22%23000%22 d=%22M2 5l6 6 6-6z%22/></svg>') center !important;
         background-size: cover !important;
         color: transparent !important;
         padding: 12px 0px 0px 12px !important;
@@ -303,7 +303,7 @@
     }
 
     .nav.navbar-nav.navbar-right .caret {
-        background: no-repeat url('https://i.imgur.com/AN6BKJT.png') center !important;
+        background: no-repeat url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 16 16%22><path fill=%22%23000%22 d=%22M2 5l6 6 6-6z%22/></svg>') center !important;
         background-size: cover !important;
         color: transparent !important;
         padding: 12px 0px 0px 12px !important;
@@ -342,7 +342,7 @@
     }
 
     .nav.navbar-nav:first-child li .caret {
-        background: no-repeat url('https://i.imgur.com/AN6BKJT.png') center !important;
+        background: no-repeat url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 16 16%22><path fill=%22%23000%22 d=%22M2 5l6 6 6-6z%22/></svg>') center !important;
         background-size: cover !important;
         color: transparent !important;
         padding: 12px 0px 0px 12px !important;
@@ -791,4 +791,3 @@ regexp("https://(nyaa|sukebei.nyaa).si/(help|login|profile|register|upload)") {
     }
 
 }
-
