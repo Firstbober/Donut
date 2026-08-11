@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Donut
 @namespace      https://github.com/Catgrills/Donut
-@version        1.1.2
+@version        1.1.3
 @description    An user style for Nyaa called Donut.
 @author         Catgrills/Katgrills(2018) + Firstbober(2026)
 @preprocessor   uso
@@ -42,7 +42,7 @@
     /* GENERAL */
 
     /** DESCRIPTION : set the main font and change others elements for every page **/
-    *:not(i) {
+    *:not(i):not(.glyphicon) {
         font-family: "Roboto", "ぼくたちのゴシック２ボールド" !important;
     }
 
